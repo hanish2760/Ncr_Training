@@ -1,2 +1,2 @@
-CDAC - Center Of Development of Advanced Computing
+CDAC - Center Of Development for Advanced Computing
 
