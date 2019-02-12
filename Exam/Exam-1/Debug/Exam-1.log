@@ -1,0 +1,7 @@
+﻿  CommentsRemove.cpp
+  Count.cpp
+  rotate.cpp
+  Source.cpp
+  TabsReplace.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'pthreadVC2.lib'
